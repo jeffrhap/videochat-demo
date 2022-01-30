@@ -1,0 +1,14 @@
+{
+  "pages": [
+    {
+      "name": "home",
+      "copy": {
+        "title": {
+          "en": "Hello World!",
+          "nl": "Hallo Wereld!"
+        }
+      }
+    }
+  ],
+  "global": {}
+}
